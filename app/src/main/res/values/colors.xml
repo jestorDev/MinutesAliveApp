@@ -12,9 +12,9 @@
     <color name="btnBg">#555555</color>
     <color name="btnText">#c7842e</color>
     <color name="textBlue">#2e69c7</color>
-    <color name="lbluePrimary">#4fc3f7</color>
-    <color name="lbluePrimaryV">#0093c4</color>
-    <color name="lblueSec">#0277bd</color>
-    <color name="lblueSecV">#004c8c</color>
+    <color name="lblueSec">#4fc3f7</color>
+    <color name="lblueSecV">#0093c4</color>
+    <color name="lbluePrimary">#0277bd</color>
+    <color name="lbluePrimaryV">#004c8c</color>
 
 </resources>
